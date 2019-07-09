@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practica3090719</string>
+    <string name="ingresa_name">ingresa nombre:</string>
+    <string name="nombre_name">Nombre</string>
+    <string name="ingresa_firtsname">Ingresa Apellido</string>
+    <string name="apellido_firtsname">Apellido</string>
+    <string name="Ingresa_Escuela">Ingresa Escuela</string>
+    <string name="escuela_School">Escuela</string>
+    <string name="app_1">Boton 1</string>
+    <string name="app_2">Boton 2</string>
+    <string name="app_registro">Registro</string>
+  </resources>
